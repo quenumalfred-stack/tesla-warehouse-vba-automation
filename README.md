@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard_preview.png)
+
 # Tesla Warehouse Automation – Excel VBA Project
 
 ## Overview
